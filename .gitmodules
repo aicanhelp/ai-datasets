@@ -7,3 +7,6 @@
 [submodule "resources/nlp/chinese_chatbot_corpus"]
 	path = resources/nlp/chinese_chatbot_corpus
 	url = https://github.com/codemayq/chinese_chatbot_corpus.git
+[submodule "resources/SMP2017ECDT-DATA"]
+	path = resources/SMP2017ECDT-DATA
+	url = https://github.com/HITlilingzhi/SMP2017ECDT-DATA.git
