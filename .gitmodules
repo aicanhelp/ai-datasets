@@ -10,3 +10,12 @@
 [submodule "resources/SMP2017ECDT-DATA"]
 	path = resources/SMP2017ECDT-DATA
 	url = https://github.com/HITlilingzhi/SMP2017ECDT-DATA.git
+[submodule "resources/Chinese-NLP-Corpus"]
+	path = resources/Chinese-NLP-Corpus
+	url = https://github.com/OYE93/Chinese-NLP-Corpus.git
+[submodule "resources/ChineseNlpCorpus"]
+	path = resources/ChineseNlpCorpus
+	url = https://github.com/SophonPlus/ChineseNlpCorpus.git
+[submodule "resources/dgk_lost_conv"]
+	path = resources/dgk_lost_conv
+	url = https://github.com/skdjfla/dgk_lost_conv.git
