@@ -8,14 +8,17 @@
 	path = resources/nlp/chinese_chatbot_corpus
 	url = https://github.com/codemayq/chinese_chatbot_corpus.git
 [submodule "resources/SMP2017ECDT-DATA"]
-	path = resources/SMP2017ECDT-DATA
+	path = resources/nlp/SMP2017ECDT-DATA
 	url = https://github.com/HITlilingzhi/SMP2017ECDT-DATA.git
 [submodule "resources/Chinese-NLP-Corpus"]
-	path = resources/Chinese-NLP-Corpus
+	path = resources/nlp/Chinese-NLP-Corpus
 	url = https://github.com/OYE93/Chinese-NLP-Corpus.git
 [submodule "resources/ChineseNlpCorpus"]
-	path = resources/ChineseNlpCorpus
+	path = resources/nlp/ChineseNlpCorpus/ChineseNlpCorpus
 	url = https://github.com/SophonPlus/ChineseNlpCorpus.git
 [submodule "resources/dgk_lost_conv"]
-	path = resources/dgk_lost_conv
+	path = resources/nlp/dgk_lost_conv
 	url = https://github.com/skdjfla/dgk_lost_conv.git
+[submodule "resources/corpus"]
+	path = resources/nlp/corpus
+	url = https://github.com/SimmerChan/corpus.git
